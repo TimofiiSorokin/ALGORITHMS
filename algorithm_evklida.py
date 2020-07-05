@@ -1,1 +1,11 @@
-print("Hi")
+# Алгоритм Евклида
+# (a, b) = (a - b, b)
+
+a = 30
+b = 18
+while a != 0 and b != 0:
+    if a > b:
+        a = a % b
+    else:
+        b = b % a
+print(a + b)
