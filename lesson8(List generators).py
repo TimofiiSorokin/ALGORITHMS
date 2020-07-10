@@ -1,5 +1,6 @@
 # youtube.com/watch?v=nukRz5Wb2g4&list=PLuhNJgi9DRWUS-nAXaXUNWtFvW2574-Tu&index=8
 # Генераторы списков
+# List generators
 
 some = 4  # int(input())
 A = [[1, 2, 3, 4], [5, 6, 7, 8], [0, 0, 0, 0]]
